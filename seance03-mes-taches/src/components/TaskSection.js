@@ -30,6 +30,6 @@ const styles = StyleSheet.create({
   compteur: {
     backgroundColor: couleurs.primaireClair, color: couleurs.primaire,
     fontWeight: 'bold', paddingHorizontal: espace.s, paddingVertical: 2,
-    borderRadius: 10, overflow: 'hidden',
+    borderRadius: 10, 
   },
 });
